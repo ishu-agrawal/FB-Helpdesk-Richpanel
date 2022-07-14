@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Devansh Goswami",
+  "author": "Utkarsh Agrawal",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
